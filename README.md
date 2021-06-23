@@ -1,4 +1,4 @@
 # Formalizar
-## CQQRS
-## Entity Framework
-## .net core 3.1
+### CQRS
+### Entity Framework
+### .net core 3.1
